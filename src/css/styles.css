@@ -12,7 +12,16 @@ body {
   line-height: 1.5;
 }
 
+li {
+  list-style: none;
+}
+
+.country-name {
+  font-size: 30px;
+}
+
 #search-box {
+  margin-left: 40px;
   font: inherit;
   padding: 8px;
   max-width: 320px;
